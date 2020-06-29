@@ -123,6 +123,7 @@ class WordTokenizer(BaseTokenizer):
         '<-->',
         '-->',
         '...',
+        '....', # Squallwu
         '--',
         '––',  # \u2013 en dash
         '——',  # \u2014 em dash
